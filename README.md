@@ -1,6 +1,6 @@
 # WebcamMotionDetectie
 
-Concept
+<b>Concept<b>
 
 Dansen is een passie die ik al 10 jaar lang doe met nog steeds hetzelfde plezier als dat ik ben begonnen. Er is iets aan ‘beweging’ wat mooi is. Ook al doen we het dagelijks kan het ook gezien worden als bijvoorbeeld kunst.  Als ik kijk naar alles wat ik heb gedaan binnen mijn studie was het maken van interactieve installaties (omtrent lichten) toch wel het leukste wat ik gedaan heb. Deze passie wil ik dan ook graag combineren met dans/beweging om iets neer te zetten waar ik op het einde van mijn semester trots op kan zijn.
 
